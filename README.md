@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avik-Guha
 - 👀 I’m interested in Automation Testing (Web Automation, API Automation, Mobile Automation)
-- 🌱 I’m currently learning WebdriverIO Automation
+- 🌱 I’m currently enhancing my Selenium Cucumber BDD framework
 - 💞️ I’m looking to collaborate on various Web Automation Frameworks
 - 📫 You can reach me in LinkedIn ( www.linkedin.com/in/avik-guha-619a9a184 )
 
